@@ -1,5 +1,5 @@
 ---
-title: 'Peer Graded Assignment: Getting and Cleaning Data Course Project'
+title: 'Codebook'
 author: "Nils"
 date: "12 September 2016"
 output: word_document
